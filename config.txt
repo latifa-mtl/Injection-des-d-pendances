@@ -1,0 +1,2 @@
+net.moutawakil.ext.DaoImplV2
+net.moutawakil.metier.MetierImpl
